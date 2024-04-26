@@ -1,14 +1,1 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>AppScreens</title>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Fri, 26 Apr 2024 19:33:23 +0200</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/lapreamarcelo/appscreens-release/releases/download/1.0.1/SnapShotPro.dmg" length="5644948" type="application/octet-stream" sparkle:edSignature="5H8xttZXZNe5F+rgijimlLUQ4VMWc1ZED/vdYI3UoV/fulIkHZEGprJC7H6wdQgLJtMrckEy9SjmBt+3wkK0BQ=="/>
-        </item>
-    </channel>
-</rss>
+
